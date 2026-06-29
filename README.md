@@ -117,7 +117,6 @@ The Streamlit app takes raw customer attributes through a form (no preprocessing
 - Risk classification at the cost-optimal threshold
 - A live SHAP waterfall explaining that specific prediction
 
-*(Add a screenshot or short GIF of the app here.)*
 ![App screenshot](3.png)
 ![App screenshot](2.png)
 ---
