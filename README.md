@@ -2,7 +2,7 @@
 
 A cost-sensitive churn prediction pipeline comparing Logistic Regression, Random Forest, LightGBM, and a soft-voting ensemble — with an interactive Streamlit app for live predictions and SHAP-based explanations.
 
-**Live demo:** [your-app-name.streamlit.app](#) *(update with your deployed URL)*
+**Live demo:** [https://telco-churn-predictor-1927.streamlit.app/](#)
 **Notebook:** [`notebooks/churn_pipeline.ipynb`](notebooks/churn_pipeline.ipynb)
 
 ---
